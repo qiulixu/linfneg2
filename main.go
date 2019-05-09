@@ -7,5 +7,5 @@ package linfeng2
 import "fmt"
 
 func AA(){
-	fmt.Println("你好北京v2")
+	fmt.Println("你好北京v1")
 }
