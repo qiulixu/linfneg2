@@ -1,3 +1,3 @@
-module github.com/qq1439606006/linfeng
+module linfeng
 
 go 1.12
